@@ -1,0 +1,6 @@
+run
+cd ..
+exit
+run
+echo Hello
+exit
